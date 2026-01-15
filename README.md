@@ -1,5 +1,3 @@
-# feature-model-benchmarking-and-evaluation
-
 **TransferIQ: Dynamic Player Transfer Value Prediction**
 
 TransferIQ is an advanced AI-driven system developed during my internship to estimate football player market values. By integrating multi-source data including performance statistics, social media sentiment, and injury history, the project provide a data-driven approach to player valuation.
@@ -34,18 +32,16 @@ LightGBM	0.9339	€2.10 Million
 LightGBM was selected as the champion model for its superior leaf-wise growth strategy, which better captured the non-linear patterns in the player valuation data.
 
 **Key Findings**
+
 **Beyond Goals: **The model successfully proved that social sentiment and injury history are significant drivers of market value.
 
 **Model Robustness:**
+
 By addressing multicollinearity, the model remains stable and interpretable, accurately identifying the "Real" drivers of a player's price.
-Valuation Accuracy: Achieved a final 
-R
-2
-R 
-2
- 
- of 0.9339, indicating that the model explains over 93% of the variance in player market values.
+Valuation Accuracy: Achieved a final accuracy R^2 of 0.9339, indicating that the model explains over 93% of the variance in player market values.
+
 **Tech Stack**
+
 Python: Primary programming language.
 Machine Learning: LightGBM, Random Forest, XGBoost, Scikit-Learn.
 Data Analysis: Pandas, NumPy.
