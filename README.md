@@ -33,7 +33,8 @@ LightGBM was selected as the champion model for its superior leaf-wise growth st
 
 **Key Findings**
 
-**Beyond Goals: **The model successfully proved that social sentiment and injury history are significant drivers of market value.
+**Beyond Goals**
+The model successfully proved that social sentiment and injury history are significant drivers of market value.
 
 **Model Robustness:**
 
@@ -42,10 +43,10 @@ Valuation Accuracy: Achieved a final accuracy R^2 of 0.9339, indicating that the
 
 **Tech Stack**
 
-Python: Primary programming language.
-Machine Learning: LightGBM, Random Forest, XGBoost, Scikit-Learn.
-Data Analysis: Pandas, NumPy.
-Visualization: Matplotlib, Seaborn.
+**Python:** Primary programming language.
+**Machine Learning:** LightGBM, Random Forest, XGBoost, Scikit-Learn.
+**Data Analysis:** Pandas, NumPy.
+**Visualization:** Matplotlib, Seaborn.
 
 
 
